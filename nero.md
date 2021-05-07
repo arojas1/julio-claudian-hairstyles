@@ -1,7 +1,7 @@
 ## Lucius Domitius Ahenobarbus (a.k.a Nero)
 
 <p align="center">
-<figure><a href="https://www.metmuseum.org/art/collection/search/255215"><img src="Images/nero-front-view-met.jpg" alt="Bronze portrait bust of a young boy, Bronze, silver, Roman (front)" width="40%"/></a><a href="https://www.metmuseum.org/art/collection/search/255215"><img src="Images/nero-back-view-met.jpg" alt="Bronze portrait bust of a young boy, Bronze, silver, Roman (back)" width="40%"/></a><figcaption><i>Fig. 2 Bronze portrait bust of a young boy (Left: Frontal view, Right: Back view). Early Imperial, Julio-Claudian, A.D. 50-68. Marble, H. 0.292m. The Metropolitan Museum of Art, New York. From: The Metropolitan Museum of Art, http://www.metmuseum.org (accessed May 6, 2021).</i></figcaption></figure>
+    <figure><a href="https://www.metmuseum.org/art/collection/search/255215"><img src="Images/nero-front-view-met.jpg" alt="Bronze portrait bust of a young boy, Bronze, silver, Roman (front)" width="40%"/></a><a href="https://www.metmuseum.org/art/collection/search/255215"><img src="Images/nero-back-view-met.jpg" alt="Bronze portrait bust of a young boy, Bronze, silver, Roman (back)" width="40%"/></a><figcaption><i>Fig. 2 Bronze portrait bust of a young boy (Left: Frontal view, Right: Back view). Early Imperial, Julio-Claudian, A.D. 50-68. Marble, H. 0.292m. The Metropolitan Museum of Art, New York. From: The Metropolitan Museum of Art, http://www.metmuseum.org (accessed May 6, 2021).</i></figcaption></figure>
 </p>
 
 Fig. 2 shows a bronze portrait bust of a young boy dated to around A.D. 50-68 from the Julio-Claudian period and the bust stands at 0.292 meters high representing a six to eight year old boy. 
