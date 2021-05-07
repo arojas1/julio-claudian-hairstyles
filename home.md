@@ -1,9 +1,9 @@
 # Introduction
-
-# Emperor's Hairstyles
 Portrait busts during the Roman Empire became one of the ways in which people from all over the empire could see the face of the emperor at any time. In order to distinguish the emperors’ portraits from other people’s, there were specific characteristics that the portrait had to have that would signify to the viewer who the portrait represented. 
 
-Starting with Julius Caesar, later emperors would use artistic motifs of their predecessors in order to portray certain political messages to the public. Some people would even emulate the artistic style of royal portraits in their own portraits to show their appreciation for the royal family and raise their stature. One of the characteristic styles of the Julio-Claudian[^1] period was the Augustan hair style, which had a parting in the hairover the inner corner of the left eye and the“crab-claw” or “pincer” motif over the right eye.
+Starting with Julius Caesar, later emperors would use artistic motifs of their predecessors in order to portray certain political messages to the public. Some people would even emulate the artistic style of royal portraits in their own portraits to show their appreciation for the royal family and raise their stature. One of the characteristic styles of the Julio-Claudian [^1] period was the Augustan hair style, which had a parting in the hairover the inner corner of the left eye and the“crab-claw” or “pincer” motif over the right eye.
+
+# Emperor's Hairstyles
 
 ## Augustus
 
