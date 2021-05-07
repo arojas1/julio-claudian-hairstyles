@@ -1,4 +1,10 @@
 ## Physical Representations of Emperors
 
+The physical representations of emperors were not only used as a way for the public to know what the emperor looked like, but also used as political statements. In the case of the portrait of Caligula, the Augustan hairstyle kept Caligula in the Julio-Claudian family line and thus the divine connection that Caesar had to Venus. The faintness of this hairstyle, however, also disconnected him from his grandfather and Augustus, and the tilt of his head separates him from all the previous emperors. Those characteristics are what tell the public that he sees himself as better than all the previous emperors because he saw himself as a god. In the case of the boy, the very prominent hairstyle provides no room for misinterpretation; he is connecting himself directly with the royal family. This connection gives him an air of nobility and a slight connection to the royal family, even though there may be no familial connection.This is relatable to present-day traditions of a person copying a hairstyle of a celebrity.
+
+The similar characteristics between the two busts, despite being part of the Julio-Claudian line, could also be a representation of their familial connection, Caligula being the uncle of Nero, if the boy is in fact Nero. If not, you can still see the influence of the Julio-Claudian style. The hairstyle of the curls at the back of the head spiraling out from one point are similar, although not as prominent on the bust of Caligula as on the boy in fig. 2. The ears in both busts are larger than is proportionate,as are the eyes. The one characteristic that connects the two to the family line, however, is the front of the hair. Both have the split of the hair on their foreheads, although not as visible on the bust of Caligula. The fact that Caligula does not have as prominent of a hair part as the boy in fig. 2 could be because the portraits of Caligula are very recognizable (as he is the emperor) whereas the boy needs to have the features stand out more in order to draw a connection to the royal family.
+
 ---
-← [Back](nero.md) &emsp; | &emsp; [Next](readme.md) →
+<p align="center">
+← <a href="nero.md">Back</a> &emsp; | &emsp; <a href="readme.md">Table of Contents</a>
+</p>

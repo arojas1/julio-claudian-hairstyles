@@ -1,6 +1,8 @@
 ## Gaius Caesar Germanicus (a.k.a Caligula)
 
-<figure><a href="https://www.metmuseum.org/art/collection/search/248851"><img src="Images/caligula-front-view-met.jpg" alt="Marble portrait bust of the emperor Gaius, known as Caligula, Marble, Roman, 3/4 view (front)" width="50%"/></a><a href="https://www.metmuseum.org/art/collection/search/248851"><img src="Images/caligula-back-view-met.jpg" alt="Marble portrait bust of the emperor Gaius, known as Caligula, Marble, Roman, 3/4 view (back)" width="50%"/></a><figcaption><i>Fig. 1 Marble portrait bust of the emperor Gaius, known as Caligula (Left: Frontal view, Right: Back view). Early Imperial, Julio-Claudian, A.D. 37-41. Marble, H. 0.508 m, length 0.018 m. The Metropolitan Museum of Art, New York. From: The Metropolitan Museum of Art, http://www.metmuseum.org (accessed May 6, 2021).</i></figcaption></figure>
+<p align="center"><a href="https://www.metmuseum.org/art/collection/search/248851"><img src="Images/caligula-front-view-met.jpg" alt="Marble portrait bust of the emperor Gaius, known as Caligula, Marble, Roman, 3/4 view (front)" width="40%"/></a><a href="https://www.metmuseum.org/art/collection/search/248851"><img src="Images/caligula-back-view-met.jpg" alt="Marble portrait bust of the emperor Gaius, known as Caligula, Marble, Roman, 3/4 view (back)" width="40%"/></a></p>
+
+<p align="center"><i>Fig. 1 Marble portrait bust of the emperor Gaius, known as Caligula (Left: Frontal view, Right: Back view). Early Imperial, Julio-Claudian, A.D. 37-41. Marble, H. 0.508 m, length 0.018 m. The Metropolitan Museum of Art, New York. From: The Metropolitan Museum of Art, http://www.metmuseum.org (accessed May 6, 2021).</i></p>
 
 Fig.1 shows a marble portrait bust of the Roman emperor Gaius, also known as Caligula. Dating back to the time of his reign (A.D.37-41) this portrait bust is from the Early Imperial or Julio-Claudian period and stands at 0.508 meters in height and 0.018 meters in length. Looking at this portrait bust, the first characteristic that can connect this bust to the Julio-Claudian time period (without knowing the person depicted) is the iconic Augustan-style hair. There is a slight part in his hair over his left eye as well as the “crab-claw” motif over his nose (as opposed to the right eye for Augustus). Looking at the back of his head, you can see the waves of his hair which originate from one point on his head and span out in a light,star-like shape. His ears are slightly larger than is proportionate for his head and the tip of his left ear has been broken off. His eyes are also slightly big and his lips are thin and pursed.
 
@@ -19,4 +21,6 @@ ___
 
 5. <a id="fn5"></a>Paul Zanker, Roman Portraits: Sculptures in Stone and Bronze in The Collection of the Metropolitan Museum of Art (New Haven: Yale University Press, 2016), 58. <a href="#fnref5">↩</a>
 ---
-← [Back](tiberius.md) &emsp; | &emsp; [Next](claudius.md) →
+<p align="center">
+← <a href="tiberius.md">Back</a> &emsp; | &emsp; <a href="readme.md">Table of Contents</a> &emsp; | &emsp; <a href="claudius.md">Next</a> →
+</p>

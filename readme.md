@@ -9,4 +9,6 @@
 #### &emsp;[Nero](emperor-hairstyles.md#lucius-domitius-ahenobarbus-a.k.a-nero)
 ### **[Physical Representations of Emperors](emperor-hairstyles.md#physical-representations-of-emperors)**
 ---
-[Next](introduction.md) →
+<p align="center">
+<a href="readme.md">Table of Contents</a> &emsp; | &emsp; <a href="claudius.md">Next</a> →
+</p>
