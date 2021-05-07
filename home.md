@@ -19,4 +19,6 @@ Starting with Julius Caesar, later emperors would use artistic motifs of their p
 
 # Vocabulary
 Julio-Claudian
-:The Julio-Claudian Dynasty comprises the first five rulers of the Roman Empire (Augustus, Tiberius, Caligula, Claudius and Nero). The dynasty lasted from 27 B.C. to 68 A.D. Department of Greek and Roman Art. “The Julio-Claudian Dynasty (27 B.C.–68 A.D.).” In Heilbrunn Timeline of Art History. New York: The Metropolitan Museum of Art, 2000–. http://www.metmuseum.org/toah/hd/jucl/hd_jucl.htm (October 2000).
+: The Julio-Claudian Dynasty comprises the first five rulers of the Roman Empire (Augustus, Tiberius, Caligula, Claudius and Nero). The dynasty lasted from 27 B.C. to 68 A.D. Department of Greek and Roman Art. “The Julio-Claudian Dynasty (27 B.C.–68 A.D.).” In Heilbrunn Timeline of Art History. New York: The Metropolitan Museum of Art, 2000–. http://www.metmuseum.org/toah/hd/jucl/hd_jucl.htm (October 2000).
+
+[^1]: The Julio-Claudian Dynasty comprises the first five rulers of the Roman Empire (Augustus, Tiberius, Caligula, Claudius and Nero). The dynasty lasted from 27 B.C. to 68 A.D. Department of Greek and Roman Art. “The Julio-Claudian Dynasty (27 B.C.–68 A.D.).” In Heilbrunn Timeline of Art History. New York: The Metropolitan Museum of Art, 2000–. http://www.metmuseum.org/toah/hd/jucl/hd_jucl.htm (October 2000).
