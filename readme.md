@@ -10,5 +10,5 @@
 ### **[Physical Representations of Emperors](emperor-hairstyles.md#physical-representations-of-emperors)**
 ---
 <p align="center">
-<a href="readme.md">Table of Contents</a> &emsp; | &emsp; <a href="claudius.md">Next</a> →
+<a href="readme.md">Table of Contents</a> &emsp; | &emsp; <a href="emperor-hairstyles.md">Next</a> →
 </p>
