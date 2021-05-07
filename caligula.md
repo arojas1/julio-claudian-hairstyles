@@ -1,0 +1,22 @@
+## Gaius Caesar Germanicus (a.k.a Caligula)
+
+<figure><a href="https://www.metmuseum.org/art/collection/search/248851"><img src="Images/caligula-front-view-met.jpg" alt="Marble portrait bust of the emperor Gaius, known as Caligula, Marble, Roman, 3/4 view (front)" width="50%"/></a><a href="https://www.metmuseum.org/art/collection/search/248851"><img src="Images/caligula-back-view-met.jpg" alt="Marble portrait bust of the emperor Gaius, known as Caligula, Marble, Roman, 3/4 view (back)" width="50%"/></a><figcaption><i>Fig. 1 Marble portrait bust of the emperor Gaius, known as Caligula (Left: Frontal view, Right: Back view). Early Imperial, Julio-Claudian, A.D. 37-41. Marble, H. 0.508 m, length 0.018 m. The Metropolitan Museum of Art, New York. From: The Metropolitan Museum of Art, http://www.metmuseum.org (accessed May 6, 2021).</i></figcaption></figure>
+
+Fig.1 shows a marble portrait bust of the Roman emperor Gaius, also known as Caligula. Dating back to the time of his reign (A.D.37-41) this portrait bust is from the Early Imperial or Julio-Claudian period and stands at 0.508 meters in height and 0.018 meters in length. Looking at this portrait bust, the first characteristic that can connect this bust to the Julio-Claudian time period (without knowing the person depicted) is the iconic Augustan-style hair. There is a slight part in his hair over his left eye as well as the “crab-claw” motif over his nose (as opposed to the right eye for Augustus). Looking at the back of his head, you can see the waves of his hair which originate from one point on his head and span out in a light,star-like shape. His ears are slightly larger than is proportionate for his head and the tip of his left ear has been broken off. His eyes are also slightly big and his lips are thin and pursed.
+
+His head is turned away from the viewer so that the viewer is seeing him at a three-quarter view. This turn of his head may refer to the vanity and cruelty that he had. Caligula, originally known as Gaius Caesar Germanicus, son of Germanicus Caesar and Agrippina the Elder, came into power in A.D 37 at the age of twenty-four. There are many ancient sources who talk about Caligula being “mad”or “insane.”This madness, possibly brought on by epilepsy, made him “an increasingly blood thirsty and vicious tyrant.”<sup><a id="fnref1" href="#fn1">1</a></sup> During his reign he declared himself a god, which may have been one of the many factors that led to his assassination.<sup><a id="fnref2" href="#fn2">2</a></sup> He also started to disassociate himself with his family line because he wanted to be perceived as the best amongst them all. He forbade people to connect him with his grandfather, Agrippa, because he was of “humble origin” and he even tried to ruin the image of Augustus by saying that he committed incest with his daughter, Julia, who then gave birth to Caligula’s mother, Agrippina the Elder.<sup><a id="fnref3" href="#fn3">3</a></sup>
+
+Caligula was not popular amongst the people. This was evident when, after he was assassinated in A.D. 41, he was “subjected to damnatio memoriae-effectively eradicated from memory.”<sup><a id="fnref4" href="#fn4">4</a></sup> Thus, many portraits of Caligula were altered in order to represent either Divus Augustus or Claudius.<sup><a id="fnref5" href="#fn5">5</a></sup>
+
+___
+1. <a id="fn1"></a>BarryJones, “C,” Dictionary of World Biography, 135-214, (ANU Press, 2016), http://www.jstor.org/stable/j.ctt1bw1h8n.7. <a href="#fnref1">↩</a>
+
+2. <a id="fn2"></a>Barbara Sidwell, “Gaius Caligula’s Mental Illness,” The Classical World 103, no. 2 (2010): 183-206, http://www.jstor.org/stable/40599927. <a href="#fnref2">↩</a>
+
+3. <a id="fn3"></a>Suetonius, Lives of the Caesars: Volume II (Massachusetts: Harvard University Press,1914), http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Caligula*.html#1. <a href="#fnref3">↩</a>
+
+4. <a id="fn4"></a>Paul Zanker, Roman Portraits: Sculptures in Stone and Bronze in The Collection of the Metropolitan Museum of Art (New Haven: Yale University Press, 2016), 58. <a href="#fnref4">↩</a>
+
+5. <a id="fn5"></a>Paul Zanker, Roman Portraits: Sculptures in Stone and Bronze in The Collection of the Metropolitan Museum of Art (New Haven: Yale University Press, 2016), 58. <a href="#fnref5">↩</a>
+---
+← [Back](tiberius.md) &emsp; | &emsp; [Next](claudius.md) →
