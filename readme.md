@@ -1,7 +1,7 @@
 <h1 align="center">Ancient Rome: Julio-Claudian Hairstyles<br>An OER Exhibit Guide</h1>
 
 ## Table of Contents
-### **[Introduction](Introduction.md)**
+### **[Introduction](introduction.md)**
 ### **[Emperor Hairstyles](emperor-hairstyles.md)**
 #### &emsp;[Augustus](augustus.md)
 #### &emsp;[Tiberus](tiberius.md)
@@ -17,5 +17,5 @@
 
 ---
 <p align="center">
-<a href="readme.md">Table of Contents</a> &emsp; | &emsp; <a href="emperor-hairstyles.md">Next</a> →
+<a href="readme.md">Table of Contents</a> &emsp; | &emsp; <a href="introduction.md">Next</a> →
 </p>
