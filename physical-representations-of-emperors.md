@@ -6,5 +6,5 @@ The similar characteristics between the two busts, despite being part of the Jul
 
 ---
 <p align="center">
-← <a href="nero.md">Back</a> &emsp; | &emsp; <a href="readme.md">Table of Contents</a>
+← <a href="nero.md">Back</a> &emsp; | &emsp; <a href="readme.md">Table of Contents</a> &emsp; | &emsp; <a href="aristocratic-hairstyles.md">Next</a> →
 </p>

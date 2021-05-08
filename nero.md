@@ -1,4 +1,4 @@
-## Lucius Domitius Ahenobarbus (a.k.a Nero)
+## Nero Claudius Caesar Augustus Germanicus (a.k.a Nero)
 
 <p align="center"><a href="https://www.metmuseum.org/art/collection/search/255215"><img src="Images/nero-front-view-met.jpg" alt="Bronze portrait bust of a young boy, Bronze, silver, Roman (front)" width="40%"/></a><a href="https://www.metmuseum.org/art/collection/search/255215"><img src="Images/nero-back-view-met.jpg" alt="Bronze portrait bust of a young boy, Bronze, silver, Roman (back)" width="40%"/></a></p>
 

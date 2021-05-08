@@ -1,4 +1,4 @@
-## Tiberius
+## Tiberius Caesar Divi Augusti Filius Augustus (a.k.a Tiberius)
 
 ---
 <p align="center">
