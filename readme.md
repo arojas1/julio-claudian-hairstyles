@@ -1,4 +1,5 @@
 <h1 align="center">Ancient Rome: Julio-Claudian Hairstyles<br>An OER Exhibit Guide</h1>
+<br>
 
 ## Table of Contents
 ### **[Introduction](introduction.md)**
@@ -12,8 +13,7 @@
 ### **[Aristocratic Hairstyles](aristocratic-hairstyles/aristocratic-hairstyles.md)**
 #### &emsp;[Male Aristocratic Hairstyles](aristocratic-hairstyles/male-aristocratic-hairstyles.md)
 #### &emsp;[Female Aristocratic Hairstyles](aristocratic-hairstyles/female-aristocratic-hairstyles.md)
-<br>
-<br>
+<br><br>
 
 ---
 <p align="center">

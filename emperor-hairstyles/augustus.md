@@ -1,7 +1,9 @@
 ## Imperator Caesar Divi Filius Augustus (a.k.a Augustus)
+<br>
 
 ### Background
 
+<br><br>
 
 ### Portraiture
 
@@ -16,8 +18,7 @@
 <p align="center"><a href="https://www.myminifactory.com/object/3d-print-augustus-with-the-citizen-s-crown-54835"><img src="Images/augustus-with-crown-paris-museum-stw.jpg" alt="Augustus with the Civic Crown image" width="40%"/></a></p>
 
 <p align="center"><i>Fig. 1</i></p>
-<br>
-<br>
+<br><br>
 
 ---
 <p align="center">

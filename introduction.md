@@ -5,10 +5,10 @@ During the Roman Empire, portrait busts became one of the ways that people from 
 The following exhibit guide will walk you through the differnt hairstyles depicted on portrait busts during the Julio-Claudian dynasty of the Roman Empire. The items in this exhibit will consist of open access items from different museums, archives and individuals (unless otherwise indicated). 
 
 While physical exhibits are limited to the space they are in as well as the objects they can display or collect, this exhibit guide aims to bring different works together into one place. The multimedia aspect of this guide will also provide multiple ways of engaging with the content.
-<br>
-<br>
+<br><br>
 
 ## History
+
 
 The **Julio-Claudian** Dynasty was the first dynasty to rule the Roman Empire. This dynasty consists of the first five rulers of the Roman Empire (Augustus, Tiberius, Caligula, Claudius and Nero). The dynasty lasted from 27 B.C. to 68 A.D.<sup><a id="fnref1" href="#fn1">1</a></sup>
 
@@ -17,8 +17,7 @@ The Julio-Claudian dynasty was named after two prominent Roman family names: *Ju
 Long before the invention of photography, the only way that people could see what the emperor looked like would have been through portraits; typically through the use of busts, though sometimes through paintings (i.e. frescoes) and coins. Hairstyles were one of the ways that ensured that the portraits could be instantly recognizable as the emperor, aside from facial features. A majority of portraits were not meant to be an exact replica of the subject, but a way to coney stature and, were sometimes used as propaganda.
 
 Busts were not only for the emperor's, but were typically reserved for the elite classes of the Roman Empire. This is because it took a lot of money and resources to have a bust created. Even the use of frescoes, though slightly easier to commission, were only used by the upper-middle-class.
-<br>
-<br>
+<br><br>
 
 ---
 1. <a id="fn1"></a>Department of Greek and Roman Art. “The Julio-Claudian Dynasty (27 B.C.–68 A.D.).” In Heilbrunn Timeline of Art History. New York: The Metropolitan Museum of Art, 2000–. http://www.metmuseum.org/toah/hd/jucl/hd_jucl.htm (October 2000). <a href="#fnref1">↩</a>

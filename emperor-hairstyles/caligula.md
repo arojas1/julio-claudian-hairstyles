@@ -5,9 +5,8 @@
 
 Caligula, originally known as Gaius Caesar Germanicus, son of Germanicus Caesar and Agrippina the Elder, came into power in A.D 37 at the age of twenty-four. There are many ancient sources who talk about Caligula being “mad” or “insane.” This madness, possibly brought on by epilepsy, made him “an increasingly blood thirsty and vicious tyrant.”<sup><a id="fnref1" href="#fn1">1</a></sup> During his reign he declared himself a god, which may have been one of the many factors that led to his assassination.<sup><a id="fnref2" href="#fn2">2</a></sup> He also started to disassociate himself with his family line because he wanted to be perceived as the best amongst them all. He forbade people to connect him with his grandfather, Agrippa, because he was of “humble origin” and he even tried to ruin the image of Augustus by saying that he committed incest with his daughter, Julia, who then gave birth to Caligula’s mother, Agrippina the Elder.<sup><a id="fnref3" href="#fn3">3</a></sup>
 
-Caligula was not popular amongst the people. This was evident when, after he was assassinated in A.D. 41, he was “subjected to damnatio memoriae-effectively eradicated from memory.”<sup><a id="fnref4" href="#fn4">4</a></sup> Thus, many portraits of Caligula were altered in order to represent either Divus Augustus or Claudius.<sup><a id="fnref5" href="#fn5">5</a></sup>
-<br>
-<br>
+Caligula was not popular amongst the people. This was evident when, after he was assassinated in A.D. 41, he was “subjected to *damnatio memoriae*-effectively eradicated from memory.”<sup><a id="fnref4" href="#fn4">4</a></sup> Thus, many portraits of Caligula were altered in order to represent either Divus Augustus or Claudius.<sup><a id="fnref5" href="#fn5">5</a></sup>
+<br><br>
 
 ### Portraiture
 <br>
@@ -17,11 +16,10 @@ Caligula was not popular amongst the people. This was evident when, after he was
 
 Looking at this portrait bust, the first characteristic that can connect this bust to the Julio-Claudian time period (without knowing the person depicted) is the iconic Augustan-style hair. There is a slight part in his hair over his left eye as well as the “crab-claw” motif over his nose (as opposed to the right eye for Augustus). Looking at the back of his head, you can see the waves of his hair which originate from one point on his head and span out in a light, star-like shape.
 
-<p align="center"><a href="https://www.myminifactory.com/object/3d-print-caligula-44374"><img src="Images/caligula-liverpool-stw.jpg" alt="Caligula Bust image" width="40%"/></a></p>
+<p align="center"><a href="https://www.myminifactory.com/object/3d-print-caligula-44374"><img src="../Images/caligula-liverpool-stw.jpg" alt="Caligula Bust image" width="40%"/></a></p>
 
 <p align="center"><i>Fig. 1</i></p>
-<br>
-<br>
+<br><br>
 
 ---
 1. <a id="fn1"></a>BarryJones, “C,” Dictionary of World Biography, 135-214, (ANU Press, 2016), http://www.jstor.org/stable/j.ctt1bw1h8n.7. <a href="#fnref1">↩</a>

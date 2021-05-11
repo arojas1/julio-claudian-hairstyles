@@ -1,4 +1,15 @@
 ## Tiberius Caesar Divi Augusti Filius Augustus (a.k.a Tiberius)
+<br>
+
+### Background
+
+<br><br>
+
+### Portraiture
+<br>
+<p align="center"></p>
+
+<br><br>
 
 ---
 <p align="center">
