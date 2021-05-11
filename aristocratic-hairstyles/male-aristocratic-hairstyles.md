@@ -22,5 +22,5 @@ https://www.metmuseum.org/art/collection/search/248891
 
 ---
 <p align="center">
-← <a href="aristocratic-hairstyles/aristocratic-hairstyles.md.md">Back</a> &emsp; | &emsp; <a href="readme.md">Table of Contents</a> &emsp; | &emsp; <a href="aristocratic-hairstyles/female-aristocratic-hairstyles.md">Next</a> →
+← <a href="aristocratic-hairstyles.md.md">Back</a> &emsp; | &emsp; <a href="readme.md">Table of Contents</a> &emsp; | &emsp; <a href="female-aristocratic-hairstyles.md">Next</a> →
 </p>

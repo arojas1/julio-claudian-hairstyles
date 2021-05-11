@@ -24,5 +24,5 @@ Similar to Caligula, Nero was not very popular amongst the people. He was declar
 4.  <a id="fn4"></a>Paul Zanker, Roman Portraits: Sculptures in Stone and Bronze in The Collection of the Metropolitan Museum of Art (New Haven: Yale University Press, 2016), 59. <a href="#fnref4">↩</a>
 ---
 <p align="center">
-← <a href="emperor-hairstyles/claudius.md">Back</a> &emsp; | &emsp; <a href="readme.md">Table of Contents</a> &emsp; | &emsp; <a href="emperor-hairstyles/physical-representations-of-emperors.md">Next</a> →
+← <a href="claudius.md">Back</a> &emsp; | &emsp; <a href="readme.md">Table of Contents</a> &emsp; | &emsp; <a href="physical-representations-of-emperors.md">Next</a> →
 </p>

@@ -33,5 +33,5 @@ Looking at this portrait bust, the first characteristic that can connect this bu
 5. <a id="fn5"></a>Paul Zanker, Roman Portraits: Sculptures in Stone and Bronze in The Collection of the Metropolitan Museum of Art (New Haven: Yale University Press, 2016), 58. <a href="#fnref5">↩</a>
 ---
 <p align="center">
-← <a href="emperor-hairstyles/tiberius.md">Back</a> &emsp; | &emsp; <a href="readme.md">Table of Contents</a> &emsp; | &emsp; <a href="emperor-hairstyles/claudius.md">Next</a> →
+← <a href="tiberius.md">Back</a> &emsp; | &emsp; <a href="readme.md">Table of Contents</a> &emsp; | &emsp; <a href="claudius.md">Next</a> →
 </p>

@@ -13,5 +13,5 @@
 
 ---
 <p align="center">
-← <a href="emperor-hairstyles/caligula.md">Back</a> &emsp; | &emsp; <a href="readme.md">Table of Contents</a> &emsp; | &emsp; <a href="emperor-hairstyles/nero.md">Next</a> →
+← <a href="caligula.md">Back</a> &emsp; | &emsp; <a href="readme.md">Table of Contents</a> &emsp; | &emsp; <a href="nero.md">Next</a> →
 </p>
