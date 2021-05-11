@@ -1,6 +1,5 @@
-<head>
+
 <title>Ancient Rome: Julio-Claudian Hairstyles<br>An OER Exhibit Guide</title>
-</head>
 
 <h1 align="center">Ancient Rome: Julio-Claudian Hairstyles<br>An OER Exhibit Guide</h1>
 
