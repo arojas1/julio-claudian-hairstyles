@@ -1,5 +1,9 @@
 ## Imperator Caesar Divi Filius Augustus (a.k.a Augustus)
 
+### Background
+
+
+### Portraiture
 
 <p align="center"><a href="https://www.metmuseum.org/art/collection/search/247993"><img src="Images/augustus-front-view-met.jpg" alt="Marble portrait of the emperor Augustus, Marble, Roman" width="40%"/></a></p>
 
