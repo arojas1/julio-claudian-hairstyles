@@ -2,17 +2,19 @@
 <br>
 
 ## Table of Contents
+[TOC]
+
 ### **[Introduction](introduction.md)**
 ### **[Emperor Hairstyles](emperor-hairstyles/emperor-hairstyles.md)**
-#### &emsp;[Augustus](emperor-hairstyles/augustus.md)
-#### &emsp;[Tiberus](emperor-hairstyles/tiberius.md)
-#### &emsp;[Caligula](emperor-hairstyles/caligula.md)
-#### &emsp;[Claudius](emperor-hairstyles/claudius.md)
-#### &emsp;[Nero](emperor-hairstyles/nero.md)
+#### [Augustus](emperor-hairstyles/augustus.md)
+#### [Tiberus](emperor-hairstyles/tiberius.md)
+#### [Caligula](emperor-hairstyles/caligula.md)
+#### [Claudius](emperor-hairstyles/claudius.md)
+#### [Nero](emperor-hairstyles/nero.md)
 ### **[Physical Representations of Emperors](emperor-hairstyles/physical-representations-of-emperors.md)**
 ### **[Aristocratic Hairstyles](aristocratic-hairstyles/aristocratic-hairstyles.md)**
-#### &emsp;[Male Aristocratic Hairstyles](aristocratic-hairstyles/male-aristocratic-hairstyles.md)
-#### &emsp;[Female Aristocratic Hairstyles](aristocratic-hairstyles/female-aristocratic-hairstyles.md)
+#### [Male Aristocratic Hairstyles](aristocratic-hairstyles/male-aristocratic-hairstyles.md)
+#### [Female Aristocratic Hairstyles](aristocratic-hairstyles/female-aristocratic-hairstyles.md)
 <br><br>
 
 ---

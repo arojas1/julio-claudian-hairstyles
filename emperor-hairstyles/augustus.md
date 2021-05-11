@@ -2,6 +2,7 @@
 <br>
 
 ### Background
+Augustus was the first Roman emperor, taking over after his great-uncle and adoptive father, Julius Ceaser.[1] He ruled from 27 B.C until his death in A.D 14
 
 <br><br>
 
@@ -21,6 +22,11 @@
 <br><br>
 
 ---
+1. https://www.britannica.com/biography/Augustus-Roman-emperor
+
+
+
+---
 <p align="center">
-← <a href="emperor-hairstyles.md">Back</a> &emsp; | &emsp; <a href="readme.md">Table of Contents</a> &emsp; | &emsp; <a href="tiberius.md">Next</a> →
+← <a href="emperor-hairstyles.md">Back</a> &emsp; | &emsp; <a href="../readme.md">Table of Contents</a> &emsp; | &emsp; <a href="tiberius.md">Next</a> →
 </p>

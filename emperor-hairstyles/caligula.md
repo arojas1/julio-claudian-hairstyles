@@ -3,7 +3,7 @@
 
 ### Background
 
-Caligula, originally known as Gaius Caesar Germanicus, son of Germanicus Caesar and Agrippina the Elder, came into power in A.D 37 at the age of twenty-four. There are many ancient sources who talk about Caligula being “mad” or “insane.” This madness, possibly brought on by epilepsy, made him “an increasingly blood thirsty and vicious tyrant.”<sup><a id="fnref1" href="#fn1">1</a></sup> During his reign he declared himself a god, which may have been one of the many factors that led to his assassination.<sup><a id="fnref2" href="#fn2">2</a></sup> He also started to disassociate himself with his family line because he wanted to be perceived as the best amongst them all. He forbade people to connect him with his grandfather, Agrippa, because he was of “humble origin” and he even tried to ruin the image of Augustus by saying that he committed incest with his daughter, Julia, who then gave birth to Caligula’s mother, Agrippina the Elder.<sup><a id="fnref3" href="#fn3">3</a></sup>
+Caligula, son of Germanicus Caesar and Agrippina the Elder, came into power in A.D 37 at the age of twenty-four. There are many ancient sources who talk about Caligula being “mad” or “insane.” This madness, possibly brought on by epilepsy, made him “an increasingly blood thirsty and vicious tyrant.”<sup><a id="fnref1" href="#fn1">1</a></sup> During his reign he declared himself a god, which may have been one of the many factors that led to his assassination.<sup><a id="fnref2" href="#fn2">2</a></sup> He also started to disassociate himself with his family line because he wanted to be perceived as the best amongst them all. He forbade people to connect him with his grandfather, Agrippa, because he was of “humble origin” and he even tried to ruin the image of Augustus by saying that he committed incest with his daughter, Julia, who then gave birth to Caligula’s mother, Agrippina the Elder.<sup><a id="fnref3" href="#fn3">3</a></sup>
 
 Caligula was not popular amongst the people. This was evident when, after he was assassinated in A.D. 41, he was “subjected to *damnatio memoriae*-effectively eradicated from memory.”<sup><a id="fnref4" href="#fn4">4</a></sup> Thus, many portraits of Caligula were altered in order to represent either Divus Augustus or Claudius.<sup><a id="fnref5" href="#fn5">5</a></sup>
 <br><br>
@@ -33,5 +33,5 @@ Looking at this portrait bust, the first characteristic that can connect this bu
 5. <a id="fn5"></a>Paul Zanker, Roman Portraits: Sculptures in Stone and Bronze in The Collection of the Metropolitan Museum of Art (New Haven: Yale University Press, 2016), 58. <a href="#fnref5">↩</a>
 ---
 <p align="center">
-← <a href="tiberius.md">Back</a> &emsp; | &emsp; <a href="readme.md">Table of Contents</a> &emsp; | &emsp; <a href="claudius.md">Next</a> →
+← <a href="tiberius.md">Back</a> &emsp; | &emsp; <a href="../readme.md">Table of Contents</a> &emsp; | &emsp; <a href="claudius.md">Next</a> →
 </p>

@@ -7,5 +7,5 @@ This section will look at each emperor individually and discuss the similarities
 
 ---
 <p align="center">
-← <a href="introduction.md">Back</a> &emsp; | &emsp; <a href="readme.md">Table of Contents</a> &emsp; | &emsp; <a href="augustus.md">Next</a> →
+← <a href="introduction.md">Back</a> &emsp; | &emsp; <a href="../readme.md">Table of Contents</a> &emsp; | &emsp; <a href="augustus.md">Next</a> →
 </p>
