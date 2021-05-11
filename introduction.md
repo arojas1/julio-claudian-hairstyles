@@ -29,5 +29,5 @@ Busts were not only for the emperor's, but were typically reserved for the elite
 
 ---
 <p align="center">
-← <a href="readme.md">Back</a> &emsp; | &emsp; <a href="readme.md">Table of Contents</a> &emsp; | &emsp; <a href="emperor-hairstyles.md">Next</a> →
+← <a href="readme.md">Back</a> &emsp; | &emsp; <a href="readme.md">Table of Contents</a> &emsp; | &emsp; <a href="emperor-hairstyles/emperor-hairstyles.md">Next</a> →
 </p>

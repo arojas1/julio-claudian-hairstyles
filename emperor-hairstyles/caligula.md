@@ -11,7 +11,7 @@ Caligula was not popular amongst the people. This was evident when, after he was
 
 ### Portraiture
 <br>
-<p align="center"><a href="https://www.metmuseum.org/art/collection/search/248851"><img src="Images/caligula-front-view-met.jpg" alt="Marble portrait bust of the emperor Gaius, known as Caligula, Marble, Roman, 3/4 view (front)" width="40%"/></a><a href="https://www.metmuseum.org/art/collection/search/248851"><img src="Images/caligula-back-view-met.jpg" alt="Marble portrait bust of the emperor Gaius, known as Caligula, Marble, Roman, 3/4 view (back)" width="40%"/></a></p>
+<p align="center"><a href="https://www.metmuseum.org/art/collection/search/248851"><img src="../Images/caligula-front-view-met.jpg" alt="Marble portrait bust of the emperor Gaius, known as Caligula, Marble, Roman, 3/4 view (front)" width="40%"/></a><a href="https://www.metmuseum.org/art/collection/search/248851"><img src="../Images/caligula-back-view-met.jpg" alt="Marble portrait bust of the emperor Gaius, known as Caligula, Marble, Roman, 3/4 view (back)" width="40%"/></a></p>
 
 <p align="center"><i>Figure 1. Marble portrait bust of Caligula (Left: Frontal view, Right: Back view). These images are taken from The Metropolitan Museum of Art (The Met). Clicking on the images above will take you to the page of this item, which includes more high-quality images of the item from different angles. These images are available through The Met under <a href="https://creativecommons.org/share-your-work/public-domain/cc0/">Creative Commons Zero (CC0)</a>.</i></p>
 
@@ -35,5 +35,5 @@ Looking at this portrait bust, the first characteristic that can connect this bu
 5. <a id="fn5"></a>Paul Zanker, Roman Portraits: Sculptures in Stone and Bronze in The Collection of the Metropolitan Museum of Art (New Haven: Yale University Press, 2016), 58. <a href="#fnref5">↩</a>
 ---
 <p align="center">
-← <a href="tiberius.md">Back</a> &emsp; | &emsp; <a href="readme.md">Table of Contents</a> &emsp; | &emsp; <a href="claudius.md">Next</a> →
+← <a href="emperor-hairstyles/tiberius.md">Back</a> &emsp; | &emsp; <a href="readme.md">Table of Contents</a> &emsp; | &emsp; <a href="emperor-hairstyles/claudius.md">Next</a> →
 </p>

@@ -21,5 +21,5 @@
 
 ---
 <p align="center">
-← <a href="emperor-hairstyles.md">Back</a> &emsp; | &emsp; <a href="readme.md">Table of Contents</a> &emsp; | &emsp; <a href="tiberius.md">Next</a> →
+← <a href="emperor-hairstyles/emperor-hairstyles.md">Back</a> &emsp; | &emsp; <a href="readme.md">Table of Contents</a> &emsp; | &emsp; <a href="emperor-hairstyles/tiberius.md">Next</a> →
 </p>

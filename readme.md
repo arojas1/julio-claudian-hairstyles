@@ -1,20 +1,17 @@
-
-<title>Ancient Rome: Julio-Claudian Hairstyles<br>An OER Exhibit Guide</title>
-
 <h1 align="center">Ancient Rome: Julio-Claudian Hairstyles<br>An OER Exhibit Guide</h1>
 
 ## Table of Contents
 ### **[Introduction](introduction.md)**
-### **[Emperor Hairstyles](emperor-hairstyles.md)**
-#### &emsp;[Augustus](augustus.md)
-#### &emsp;[Tiberus](tiberius.md)
-#### &emsp;[Caligula](caligula.md)
-#### &emsp;[Claudius](claudius.md)
-#### &emsp;[Nero](nero.md)
-### **[Physical Representations of Emperors](physical-representations-of-emperors.md)**
-### **[Aristocratic Hairstyles](aristocratic-hairstyles.md)**
-#### &emsp;[Male Aristocratic Hairstyles](male-aristocratic-hairstyles.md)
-#### &emsp;[Female Aristocratic Hairstyles](female-aristocratic-hairstyles.md)
+### **[Emperor Hairstyles](emperor-hairstyles/emperor-hairstyles.md)**
+#### &emsp;[Augustus](emperor-hairstyles/augustus.md)
+#### &emsp;[Tiberus](emperor-hairstyles/tiberius.md)
+#### &emsp;[Caligula](emperor-hairstyles/caligula.md)
+#### &emsp;[Claudius](emperor-hairstyles/claudius.md)
+#### &emsp;[Nero](emperor-hairstyles/nero.md)
+### **[Physical Representations of Emperors](emperor-hairstyles/physical-representations-of-emperors.md)**
+### **[Aristocratic Hairstyles](aristocratic-hairstyles/aristocratic-hairstyles.md)**
+#### &emsp;[Male Aristocratic Hairstyles](aristocratic-hairstyles/male-aristocratic-hairstyles.md)
+#### &emsp;[Female Aristocratic Hairstyles](aristocratic-hairstyles/female-aristocratic-hairstyles.md)
 <br>
 <br>
 
