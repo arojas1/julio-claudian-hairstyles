@@ -12,7 +12,7 @@ While physical exhibits are limited to the space they are in as well as the obje
 
 The **Julio-Claudian** Dynasty was the first dynasty to rule the Roman Empire. This dynasty consists of the first five rulers of the Roman Empire (Augustus, Tiberius, Caligula, Claudius and Nero). The dynasty lasted from 27 B.C. to 68 A.D.<sup><a id="fnref1" href="#fn1">1</a></sup>
 
-The Julio-Claudian dynasty was named after two prominent Roman family names: *Julius* and *Claudius*.<sup><a id="fnref2" href="#fn2">2</a></sup> Family names were important to the Romans because each family name held their own history. The *Claudius* family were considered to be on of the oldest Roman families, whereas the *Julius* family (starting with Julius Caesar) was thought to have decended from **Aeneas**.<sup><a id="fnref3" href="#fn3">3</a></sup>
+The Julio-Claudian dynasty was named after two prominent Roman family names: *Julius* and *Claudius*.<sup><a id="fnref2" href="#fn2">2</a></sup> Family names were important to the Romans because each family name held their own history. The *Claudius* family were considered to be on of the oldest Roman families, whereas the *Julius* family (starting with Julius Caesar) was thought to have decended from Aeneas.<sup><a id="fnref3" href="#fn3">3</a></sup>
 
 Long before the invention of photography, the only way that people could see what the emperor looked like would have been through portraits; typically through the use of busts, though sometimes through paintings (i.e. frescoes) and coins. Hairstyles were one of the ways that ensured that the portraits could be instantly recognizable as the emperor, aside from facial features. A majority of portraits were not meant to be an exact replica of the subject, but a way to coney stature and, were sometimes used as propaganda.
 
@@ -30,3 +30,7 @@ Busts were not only for the emperor's, but were typically reserved for the elite
 <p align="center">
 ← <a href="readme.md">Back</a> &emsp; | &emsp; <a href="readme.md">Table of Contents</a> &emsp; | &emsp; <a href="emperor-hairstyles/emperor-hairstyles.md">Next</a> →
 </p>
+<br>
+<br>
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/arojas1/julio-claudian-hairstyles/blob/main/readme.md">Ancient Rome: Julio-Claudian Hairstyles An OER Exhibit Guide</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/arojas1">Ashley Rojas</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International (CC BY 4.0) <img height="22px"!important margin-left="3px" vertical-align="text-bottom" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img height="22px"!important margin-left="3px" vertical-align="text-bottom" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>

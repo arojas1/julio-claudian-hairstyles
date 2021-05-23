@@ -12,13 +12,24 @@ Caligula was not popular amongst the people. This was evident when, after he was
 <br>
 <p align="center"><a href="https://www.metmuseum.org/art/collection/search/248851"><img src="../Images/caligula-front-view-met.jpg" alt="Marble portrait bust of the emperor Gaius, known as Caligula, Marble, Roman, 3/4 view (front)" width="40%"/></a><a href="https://www.metmuseum.org/art/collection/search/248851"><img src="../Images/caligula-back-view-met.jpg" alt="Marble portrait bust of the emperor Gaius, known as Caligula, Marble, Roman, 3/4 view (back)" width="40%"/></a></p>
 
-<p align="center"><i>Figure 1. Marble portrait bust of Caligula (Left: Frontal view, Right: Back view). These images are taken from The Metropolitan Museum of Art (The Met). Clicking on the images above will take you to the page of this item, which includes more high-quality images of the item from different angles. These images are available through The Met under <a href="https://creativecommons.org/share-your-work/public-domain/cc0/">Creative Commons Zero (CC0)</a>.</i></p>
+<p align="center"><i>Figure 1. Marble portrait bust of Caligula (Left: Frontal view, Right: Back view). These images are taken from The Metropolitan Museum of Art (The Met). Clicking on the images above will take you to the page of this item, which includes more high-quality images of the item from different angles. These images are available through The Met under a <a href="https://creativecommons.org/share-your-work/public-domain/cc0/">Creative Commons Zero (CC0)</a> license.</i></p>
 
-Looking at this portrait bust, the first characteristic that can connect this bust to the Julio-Claudian time period (without knowing the person depicted) is the iconic Augustan-style hair. There is a slight part in his hair over his left eye as well as the “crab-claw” motif over his nose (as opposed to the right eye for Augustus). Looking at the back of his head, you can see the waves of his hair which originate from one point on his head and span out in a light, star-like shape.
+Looking at this portrait bust, the first characteristic that can connect this bust to the Julio-Claudian time period (without knowing the person depicted) is the iconic Augustan-style hair. There is a slight part in his hair over his left eye as well as the “crab-claw” motif over his nose (as opposed to the right eye for Augustus). Looking at the back of his head, you can see the star-like shape as well.
+
+The Augustan hairstyle kept Caligula in the Julio-Claudian family line and the divine connection that Caesar had to Venus. The faintness of this hairstyle, however, also disconnected him from his grandfather and Augustus, and the tilt of his head separates him from all the previous emperors. Those characteristics are what tell the public that he sees himself as better than all the previous emperors because he saw himself as a god.
+<br>
+<br>
+
+### Explore
+
+Below are two portraits of Augustus that have been scanned and rendered as 3D models. These models are hosted on <a href="https://www.myminifactory.com/">MyMiniFactory</a> through the <a href="https://www.myminifactory.com/scantheworld/">Scan The World (STW)</a> initiative. Clicking on the images will take you to the page of this item, which includes more images of the item as well as a 3D rendering of the item that can be explored online or, in some cases, downloaded for printing on a 3D printer.
+<br><br>
 
 <p align="center"><a href="https://www.myminifactory.com/object/3d-print-caligula-44374"><img src="../Images/caligula-liverpool-stw.jpg" alt="Caligula Bust image" width="40%"/></a></p>
 
-<p align="center"><i>Fig. 1</i></p>
+<p align="center"><i>Figure 2. Portrait of Caligula (MyMiniFactory: Scan The World). The 3D item is available for download from STW under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a> license.</i></p>
+
+This item is a scan of a portrait housed at the <a href="https://www.liverpoolmuseums.org.uk/lady-lever-art-gallery">Lady Lever Art Gallery</a> in Liverpool, United Kingdom.
 <br><br>
 
 ---
@@ -35,3 +46,7 @@ Looking at this portrait bust, the first characteristic that can connect this bu
 <p align="center">
 ← <a href="tiberius.md">Back</a> &emsp; | &emsp; <a href="../readme.md">Table of Contents</a> &emsp; | &emsp; <a href="claudius.md">Next</a> →
 </p>
+<br>
+<br>
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/arojas1/julio-claudian-hairstyles/blob/main/readme.md">Ancient Rome: Julio-Claudian Hairstyles An OER Exhibit Guide</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/arojas1">Ashley Rojas</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International (CC BY 4.0) <img height="22px"!important margin-left="3px" vertical-align="text-bottom" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img height="22px"!important margin-left="3px" vertical-align="text-bottom" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
