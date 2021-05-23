@@ -22,7 +22,7 @@ The Augustan hairstyle kept Caligula in the Julio-Claudian family line and the d
 
 ### Explore
 
-Below are two portraits of Augustus that have been scanned and rendered as 3D models. These models are hosted on <a href="https://www.myminifactory.com/">MyMiniFactory</a> through the <a href="https://www.myminifactory.com/scantheworld/">Scan The World (STW)</a> initiative. Clicking on the images will take you to the page of this item, which includes more images of the item as well as a 3D rendering of the item that can be explored online or, in some cases, downloaded for printing on a 3D printer.
+Below is a portrait of Caligula that has been scanned and rendered as a 3D model. This model is hosted on <a href="https://www.myminifactory.com/">MyMiniFactory</a> through the <a href="https://www.myminifactory.com/scantheworld/">Scan The World (STW)</a> initiative. Clicking on the image will take you to the page of this item, which includes more images of the item as well as a 3D rendering of the item that can be explored online or, in some cases, downloaded for printing on a 3D printer.
 <br><br>
 
 <p align="center"><a href="https://www.myminifactory.com/object/3d-print-caligula-44374"><img src="../Images/caligula-liverpool-stw.jpg" alt="Caligula Bust image" width="40%"/></a></p>

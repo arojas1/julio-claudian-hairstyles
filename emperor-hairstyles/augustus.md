@@ -12,14 +12,14 @@ Augustus, being the first Roman emperor, was the one to set the precedent for th
 
 <p align="center"><a href="https://www.metmuseum.org/art/collection/search/247993"><img src="../Images/augustus-front-view-met.jpg" alt="Marble portrait of the emperor Augustus, Marble, Roman" width="40%"/></a></p>
 
-<p align="center"><i>Figure 1. Marble portrait of the emperor Augustus. These images are taken from The Metropolitan Museum of Art (The Met). Clicking on the images above will take you to the page of this item, which includes more high-quality images of the item from different angles. These images are available through The Met under a <a href="https://creativecommons.org/share-your-work/public-domain/cc0/">Creative Commons Zero (CC0)</a>license.</i></p>
+<p align="center"><i>Figure 1. Marble portrait of the emperor Augustus. This image is taken from The Metropolitan Museum of Art (The Met). Clicking on the image above will take you to the page of this item, which includes more high-quality images of the item from different angles. This image is available through The Met under a <a href="https://creativecommons.org/share-your-work/public-domain/cc0/">Creative Commons Zero (CC0)</a> license.</i></p>
 
 The portrait in figure 1 very clearly has the "crab-claw" part, signifying the portrait is a part of the Julio-Claudian period. Although the portriat is broken in the back, we can assume that the portrait would have had the hair locks eminating in the signature star-like spiral. This portrait is over-lifesized. This scale is typically reserved for depictions of rulers or gods.
 <br><br>
 
 <p align="center"><a href="https://www.metmuseum.org/art/collection/search/251411"><img src="../Images/augustus-ivory-front-view-met.jpg" alt="Ivory portrait head of the emperor Augustus, Ivory, Roman (Front View)" width="40%"/></a><a href="https://www.metmuseum.org/art/collection/search/251411"><img src="../Images/augustus-ivory-back-view-met.jpg" alt="Ivory portrait head of the emperor Augustus, Ivory, Roman (Back View)" width="40%"/></a></p>
 
-<p align="center"><i>Figure 1. Ivory portrait head of the emperor Augustus. These images are taken from The Metropolitan Museum of Art (The Met). Clicking on the images above will take you to the page of this item, which includes more high-quality images of the item from different angles. These images are available through The Met under a <a href="https://creativecommons.org/share-your-work/public-domain/cc0/">Creative Commons Zero (CC0)</a> license.</i></p>
+<p align="center"><i>Figure 2. Ivory portrait head of the emperor Augustus. These images are taken from The Metropolitan Museum of Art (The Met). Clicking on the images above will take you to the page of this item, which includes more high-quality images of the item from different angles. These images are available through The Met under a <a href="https://creativecommons.org/share-your-work/public-domain/cc0/">Creative Commons Zero (CC0)</a> license.</i></p>
 
 Here is another example of a portrait of Augustus. Once again, the "crab-claw" is prominent in the front. Looking at the back, however, the star-like shape of the locks is prominent on this portrait. 
 <br><br>

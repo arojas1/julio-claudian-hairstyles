@@ -10,7 +10,7 @@ While physical exhibits are limited to the space they are in as well as the obje
 ## History
 
 
-The **Julio-Claudian** Dynasty was the first dynasty to rule the Roman Empire. This dynasty consists of the first five rulers of the Roman Empire (Augustus, Tiberius, Caligula, Claudius and Nero). The dynasty lasted from 27 B.C. to 68 A.D.<sup><a id="fnref1" href="#fn1">1</a></sup>
+The Julio-Claudian Dynasty was the first dynasty to rule the Roman Empire. This dynasty consists of the first five rulers of the Roman Empire (Augustus, Tiberius, Caligula, Claudius and Nero). The dynasty lasted from 27 B.C. to 68 A.D.<sup><a id="fnref1" href="#fn1">1</a></sup>
 
 The Julio-Claudian dynasty was named after two prominent Roman family names: *Julius* and *Claudius*.<sup><a id="fnref2" href="#fn2">2</a></sup> Family names were important to the Romans because each family name held their own history. The *Claudius* family were considered to be on of the oldest Roman families, whereas the *Julius* family (starting with Julius Caesar) was thought to have decended from Aeneas.<sup><a id="fnref3" href="#fn3">3</a></sup>
 
