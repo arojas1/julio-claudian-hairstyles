@@ -43,11 +43,11 @@ This item is a scan of a portrait housed at the <a href="http://www.museoarcheol
 <br><br>
 
 ---
-1. <a id="fn1"></a>https://en.wikipedia.org/wiki/Claudius <a href="#fnref1">↩</a>
+1. <a id="fn1"></a>"Claudius." <i>Wikipedia</i>, https://en.wikipedia.org/wiki/Claudius. <a href="#fnref1">↩</a>
 
-2. <a id="fn2"></a>https://www.pbs.org/empires/romans/empire/claudius.html <a href="#fnref2">↩</a>
+2. <a id="fn2"></a>"The Roman Empire: In the First Century - Claudius." <i>PBS</i>, https://www.pbs.org/empires/romans/empire/claudius.html. <a href="#fnref2">↩</a>
 
-3. <a id="fn3"></a>https://en.wikipedia.org/wiki/Cameo_(carving) <a href="#fnref3">↩</a>
+3. <a id="fn3"></a>"Cameo (carving)." <i>Wikipedia</i>, https://en.wikipedia.org/wiki/Cameo_(carving). <a href="#fnref3">↩</a>
 ---
 <p align="center">
 ← <a href="caligula.md">Back</a> &emsp; | &emsp; <a href="../readme.md">Table of Contents</a> &emsp; | &emsp; <a href="nero.md">Next</a> →

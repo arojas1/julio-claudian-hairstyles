@@ -24,15 +24,17 @@ Below is a YouTube video that talks about haircuts and hairstyles in Ancient Rom
 
 <p align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=8DpIo573jV8
 " target="_blank"><img src="http://img.youtube.com/vi/8DpIo573jV8/0.jpg" 
-alt="How They Did It: Haircuts and Hair Styles in Ancient Rome (YouTube)" width="70%" /></a></p>
+alt="How They Did It - Haircuts and Hairstyles in Ancient Rome (YouTube)" width="70%" /></a></p>
 
+<p align="center">"How They Did It - Haircuts and Hairstyles in Ancient Rome." <i>YouTube</i>, uploaded by Invicta, 22 Nov. 2019, <a href="https://www.youtube.com/watch?v=8DpIo573jV8">https://www.youtube.com/watch?v=8DpIo573jV8</a>.</p>
+<br><br>
 
 ---
 1. <a id="fn1"></a>Department of Greek and Roman Art. “The Julio-Claudian Dynasty (27 B.C.–68 A.D.).” In Heilbrunn Timeline of Art History. New York: The Metropolitan Museum of Art, 2000–. http://www.metmuseum.org/toah/hd/jucl/hd_jucl.htm (October 2000). <a href="#fnref1">↩</a>
 
-2. <a id="fn2"></a>https://en.wikipedia.org/wiki/Julio-Claudian_dynasty <a href="#fnref2">↩</a>
+2. <a id="fn2"></a>"Julio-Claudian dynasty." <i>Wikipedia</i>, https://en.wikipedia.org/wiki/Julio-Claudian_dynasty. <a href="#fnref2">↩</a>
 
-3. <a id="fn3"></a>Aeneas, in Roman Mythology, is said to be an ancestor of Remus and Romulus (the founders of Rome) and the son of the goddess Venus (Aphrodite in Greek Mythology).<br>https://www.worldhistory.org/article/1468/rome-under-the-julio-claudian-dynasty/ <a href="#fnref3">↩</a>
+3. <a id="fn3"></a>Aeneas, in Roman Mythology, is said to be an ancestor of Remus and Romulus (the founders of Rome) and the son of the goddess Venus (Aphrodite in Greek Mythology).<br>Wasson, Donald. "Rome under the Julio-Claudian Dynasty." <i>World History Encyclopedia</i>, https://www.worldhistory.org/article/1468/rome-under-the-julio-claudian-dynasty. <a href="#fnref3">↩</a>
 
 ---
 <p align="center">

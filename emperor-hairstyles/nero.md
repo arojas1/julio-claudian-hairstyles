@@ -37,7 +37,7 @@ This item is a scan of a portrait housed at the <a href="https://www.ed.ac.uk/vi
 
 4.  <a id="fn4"></a>Paul Zanker, Roman Portraits: Sculptures in Stone and Bronze in The Collection of the Metropolitan Museum of Art (New Haven: Yale University Press, 2016), 59. <a href="#fnref4">↩</a>
 
-5. <a id="fn5"></a>https://www.donottouchblog.com/home/rise-and-fall-of-hair <a href="#fnref5">↩</a>
+5. <a id="fn5"></a>"The Rise and Fall of Hair." <i>Do Not Touch - a hands on approach to art history</i>, https://www.donottouchblog.com/home/rise-and-fall-of-hair. <a href="#fnref5">↩</a>
 ---
 <p align="center">
 ← <a href="claudius.md">Back</a> &emsp; | &emsp; <a href="../readme.md">Table of Contents</a> &emsp; | &emsp; <a href="../aristocratic-hairstyles/aristocratic-hairstyles.md">Next</a> →

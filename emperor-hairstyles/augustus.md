@@ -5,7 +5,6 @@
 Augustus was the first Roman emperor, taking over after his great-uncle and adoptive father, Julius Ceaser. He ruled from 27 B.C until his death in A.D 14.<sup><a id="fnref1" href="#fn1">1</a></sup> During his reign, Augustus nearly doubled the size of the empire as well as strengthened Roman infrastructure. After his death, he was declared to be a god by the Roman Senate.<sup><a id="fnref2" href="#fn2">2</a></sup>
 
 Augustus, being the first Roman emperor, was the one to set the precedent for the Julio-Claudian portraitures and hairstyles. Moving on from the late Republic veristic (naturalistic) representations of portraits, where they represented all the flaws of a person (such as baldness, wrinkles, etc.) Augustus took inspiration from the Hellenistic Greek portraits and decided to represent himself in an idealized way.<sup><a id="fnref3" href="#fn3">3</a></sup> This is evident in the fact that none of the portraits throughout Augustus' reign portray him in old age (that have been found), despite him living until he was 77 years old.<sup><a id="fnref4" href="#fn4">4</a></sup>
-
 <br><br>
 
 ### Portraiture
@@ -50,13 +49,13 @@ There was a recent discovery in Isernia, Italy of a marble head portrait of Augu
 <br><br>
 
 ---
-1. <a id="fn1"></a>https://www.britannica.com/biography/Augustus-Roman-emperor <a href="#fnref1">↩</a>
+1. <a id="fn1"></a>Grant, Michael. "Augustus - Biography, Accomplishments, Statue, Death, Definition, and Facts." <i>Britannica</i>, https://www.britannica.com/biography/Augustus-Roman-emperor. <a href="#fnref1">↩</a>
 
-2. <a id="fn2"></a>https://www.history.com/topics/ancient-history/emperor-augustus <a href="#fnref2">↩</a>
+2. <a id="fn2"></a>"Augustus." <i>History</i>, https://www.history.com/topics/ancient-history/emperor-augustus. <a href="#fnref2">↩</a>
 
-3. <a id="fn3"></a>https://www.metmuseum.org/art/metpublications/Roman_Art_A_Resource_for_Educators (pg. 39) <a href="#fnref3">↩</a>
+3. <a id="fn3"></a>Thompson, Nancy L., Felicia Blum, Michael Norris, and Edith Watts. <i>Roman Art: A Resources for Educators</i>, E-book, The Metropolitan Museum of Art, 2007, p. 39, https://www.metmuseum.org/art/metpublications/Roman_Art_A_Resource_for_Educators. <a href="#fnref3">↩</a>
 
-4. <a id="fn4"></a>https://www.metmuseum.org/art/collection/search/247993 <a href="#fnref4">↩</a>
+4. <a id="fn4"></a><i>Marble portrait of the emperor Augustus</i>. ca. A.D. 14-37. The Metropolitan Museum of Art, New York. <i>The Metropolitan Museum of Art</i>, https://www.metmuseum.org/art/collection/search/247993. <a href="#fnref4">↩</a>
 ---
 <p align="center">
 ← <a href="emperor-hairstyles.md">Back</a> &emsp; | &emsp; <a href="../readme.md">Table of Contents</a> &emsp; | &emsp; <a href="tiberius.md">Next</a> →

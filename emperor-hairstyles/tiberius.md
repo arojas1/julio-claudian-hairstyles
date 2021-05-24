@@ -35,11 +35,11 @@ This item is a scan of a portrait housed at the <a href="https://saintraymond.to
 <br><br>
 
 ---
-1. <a id="fn1"></a>https://harvardartmuseums.org/art/311091 <a href="#fnref1">↩</a>
+1. <a id="fn1"></a><i>Emperor Tiberius</i>. 22-23 C.E. Harvard Art Museums, Massachusetts. <i>Harvard Art Museums</i>, https://hvrd.art/o/311091. <a href="#fnref1">↩</a>
 
-2. <a id="fn2"></a>https://www.metmuseum.org/toah/hd/ropo2/hd_ropo2.htm <a href="#fnref2">↩</a>
+2. <a id="fn2"></a>Trentinella, Rosemarie. “Roman Portrait Sculpture: The Stylistic Cycle.” In Heilbrunn Timeline of Art History. New York: The Metropolitan Museum of Art, 2000–. http://www.metmuseum.org/toah/hd/ropo2/hd_ropo2.htm (October 2003) <a href="#fnref2">↩</a>
 
-3. <a id="fn3"></a>https://www.hermitagemuseum.org/wps/portal/hermitage/digital-collection/06.+sculpture/793 <a href="#fnref3">↩</a>
+3. <a id="fn3"></a><i>Portrait of the Emperor Tiberius</i>. 1st century. The State Hermitage Museum, Saint Petersburg. <i>Hermitage Museum</i>, https://www.hermitagemuseum.org/wps/portal/hermitage/digital-collection/06.+sculpture/793. <a href="#fnref3">↩</a>
 ---
 <p align="center">
 ← <a href="augustus.md">Back</a> &emsp; | &emsp; <a href="../readme.md">Table of Contents</a> &emsp; | &emsp; <a href="caligula.md">Next</a> →
