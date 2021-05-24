@@ -34,8 +34,6 @@ Below is a portrait of Tiberius that has been scanned and rendered as a 3D model
 This item is a scan of a portrait housed at the <a href="https://saintraymond.toulouse.fr/">Musée Saint-Raymond</a> in Toulouse, France.
 <br><br>
 
-<br><br>
-
 ---
 1. <a id="fn1"></a>https://harvardartmuseums.org/art/311091 <a href="#fnref1">↩</a>
 
