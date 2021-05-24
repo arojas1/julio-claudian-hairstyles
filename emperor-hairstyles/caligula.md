@@ -17,11 +17,7 @@ Caligula was not popular amongst the people. This was evident when, after he was
 Looking at this portrait bust, the first characteristic that can connect this bust to the Julio-Claudian time period (without knowing the person depicted) is the iconic Augustan-style hair. There is a slight part in his hair over his left eye as well as the “crab-claw” motif over his nose (as opposed to the right eye for Augustus). Looking at the back of his head, you can see the star-like shape as well.
 
 The Augustan hairstyle kept Caligula in the Julio-Claudian family line and the divine connection that Caesar had to Venus. The faintness of this hairstyle, however, also disconnected him from his grandfather and Augustus, and the tilt of his head separates him from all the previous emperors. Those characteristics are what tell the public that he sees himself as better than all the previous emperors because he saw himself as a god.
-
-https://www.metmuseum.org/art/collection/search/251821
-
-<br>
-<br>
+<br><br>
 
 ### Explore
 

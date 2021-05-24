@@ -28,7 +28,7 @@ For both of these boys, the hair styles had to be very prominent because, even t
 2. <a id="fn2"></a><i>Bronze statue of an aristocratic boy.</i> 27 B.C.-A.D. 14. The Metropolitan Museum of Art, New York. <i>The Metropolitan Museu of Art</i>, https://www.metmuseum.org/art/collection/search/248891. <a href="#fnref2">↩</a>
 ---
 <p align="center">
-← <a href="aristocratic-hairstyles.md.md">Back</a> &emsp; | &emsp; <a href="../readme.md">Table of Contents</a> &emsp; | &emsp; <a href="female-aristocratic-hairstyles.md">Next</a> →
+← <a href="aristocratic-hairstyles.md.md">Back</a> &emsp; | &emsp; <a href="../readme.md">Table of Contents</a>
 </p>
 <br>
 <br>
