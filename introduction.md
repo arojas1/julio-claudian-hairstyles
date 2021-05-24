@@ -22,9 +22,9 @@ Busts were not only for the emperor's, but were typically reserved for the elite
 ### Explore
 Below is a YouTube video that talks about haircuts and hairstyles in Ancient Rome. Check the video out to get a sense of what life was like for Romans in terms of hairstyles. Although the use of portraits are different than everyday hairstyles, they are still connected.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=8DpIo573jV8
+<p align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=8DpIo573jV8
 " target="_blank"><img src="http://img.youtube.com/vi/8DpIo573jV8/0.jpg" 
-alt="How They Did It: Haircuts and Hair Styles in Ancient Rome (YouTube)" width="70%" /></a>
+alt="How They Did It: Haircuts and Hair Styles in Ancient Rome (YouTube)" width="70%" /></a></p>
 
 
 ---
