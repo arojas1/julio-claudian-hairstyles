@@ -24,7 +24,7 @@ Below is a YouTube video that talks about haircuts and hairstyles in Ancient Rom
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=8DpIo573jV8
 " target="_blank"><img src="http://img.youtube.com/vi/8DpIo573jV8/0.jpg" 
-alt="How They Did It: Haircuts and Hair Styles in Ancient Rome (YouTube)" width="40%" border="10" /></a>
+alt="How They Did It: Haircuts and Hair Styles in Ancient Rome (YouTube)" width="70%" /></a>
 
 
 ---
