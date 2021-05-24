@@ -2,7 +2,7 @@
 <br>
 
 ### Background
-Claudius (r. 41-54 A.D.) rose to power after Caligula as the last adult male of his family.<sup><a id="fnref1" href="#fn1">1</a></sup> Claudius suffered from illness and was left disfigured when he was young. Before rising to power, he was considered the family "fool". Due to this, he was not favored amongst the Senate (especially with the reputation of Caligula before him). He, however, was also popular due to his endering behavior towards others.
+Claudius (r. 41-54 A.D.) rose to power after Caligula as the last adult male of his family.<sup><a id="fnref1" href="#fn1">1</a></sup> Claudius suffered from illness and was left disfigured when he was young. Before rising to power, he was considered the family "fool". Due to this, he was not favored amongst the Senate (especially with the reputation of Caligula before him). He, however, was also popular due to his endering behavior towards others.<sup><a id="fnref2" href="#fn2">2</a></sup>
 <br><br>
 
 ### Portraiture
@@ -22,11 +22,11 @@ Whether representing Nero or Claudius, the hair style is the same. The V-shaped 
 
 <p align="center"><i>Figure 2. Fragment of a large sardonyx cameo: head of the emperor Claudius wearing a laurel wreath. This image is taken from The British Museum. Clicking on the image above will take you to the page of this item. This image is available through The British Museum under a <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a> license.</i></p>
 
-Cameo, is a method of carving gems, jewelry or a vessel. Cameo was very popular during the Julio-Claudian period. In this cameo, Claudius is depicted with a laurel wreath. Although it is a side portrait, the comma-shaped locks can be seen very clearly as well as the star-like shape of the hair on the back of the head.
+Cameo, is a method of carving gems, jewelry or a vessel. Cameo was very popular during the Julio-Claudian period.<sup><a id="fnref3" href="#fn3">3</a></sup> In this cameo, Claudius is depicted with a laurel wreath. Although it is a side portrait, the comma-shaped locks can be seen very clearly as well as the star-like shape of the hair on the back of the head.
 <br><br>
 
 ### Explore
-Below is a portrait of Claudius that has been scanned and rendered as a 3D model. This model is hosted on <a href="https://www.myminifactory.com/">MyMiniFactory</a> through the <a href="https://www.myminifactory.com/scantheworld/">Scan The World (STW)</a> initiative. Clicking on the image will take you to the page of this item, which includes more images of the item as well as a 3D rendering of the item that can be explored online or, in some cases, downloaded for printing on a 3D printer.
+Below are two portraits of Claudius that have been scanned and rendered as a 3D model. These models are hosted on <a href="https://www.myminifactory.com/">MyMiniFactory</a> through the <a href="https://www.myminifactory.com/scantheworld/">Scan The World (STW)</a> initiative. Clicking on the images will take you to the page of the item, which includes more images of the item as well as a 3D rendering of the item that can be explored online or, in some cases, downloaded for printing on a 3D printer.
 <br><br>
 
 <p align="center"><a href="https://www.myminifactory.com/object/3d-print-claudius-101640"><img src="../Images/claudius-smk-stw.jpg" alt="Tiberius portrait 3D model" width="40%"/></a></p>
@@ -34,6 +34,12 @@ Below is a portrait of Claudius that has been scanned and rendered as a 3D model
 <p align="center"><i>Figure 3. Portrait of Claudius (MyMiniFactory: Scan The World). The 3D item is available for download from STW under a <a href="https://creativecommons.org/publicdomain/zero/1.0">Creative Commmons Zero (CC0)</a> license.</i></p>
 
 This item is a scan of a portrait housed at the <a href="https://collection.smk.dk/#/en/">Statens Museum for Kunst (SMK)</a> in Copenhagen, Denmark.
+<br><br>
+<p align="center"><a href="https://www.myminifactory.com/object/3d-print-claudius-94801"><img src="../Images/claudius-museo-di-napoli-stw.jpg" alt="Tiberius portrait 3D model" width="40%"/></a></p>
+
+<p align="center"><i>Figure 4. Portrait of Claudius with a Laurel Wreath(MyMiniFactory: Scan The World). The 3D item is available for download from STW under a <a href="https://www.myminifactory.com/object-licensing">MyMiniFactory Exclusive-Credit-Remix-NonCommercial</a> license.</i></p>
+
+This item is a scan of a portrait housed at the <a href="http://www.museoarcheologiconapoli.it/en/">Museo Archeologico Nazionale di Napoli</a> in Napels, Italy.
 <br><br>
 
 ---

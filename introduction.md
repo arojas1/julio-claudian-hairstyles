@@ -19,6 +19,11 @@ Long before the invention of photography, the only way that people could see wha
 Busts were not only for the emperor's, but were typically reserved for the elite classes of the Roman Empire. This is because it took a lot of money and resources to have a bust created. Even the use of frescoes, though slightly easier to commission, were only used by the upper-middle-class.
 <br><br>
 
+### Explore
+Below is a YouTube video that talks about haircuts and hairstyles in Ancient Rome. Check the video out to get a sense of what life was like for Romans in terms of hairstyles. Although the use of portraits are different than everyday hairstyles, they are still connected.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8DpIo573jV8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 1. <a id="fn1"></a>Department of Greek and Roman Art. “The Julio-Claudian Dynasty (27 B.C.–68 A.D.).” In Heilbrunn Timeline of Art History. New York: The Metropolitan Museum of Art, 2000–. http://www.metmuseum.org/toah/hd/jucl/hd_jucl.htm (October 2000). <a href="#fnref1">↩</a>
 

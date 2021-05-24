@@ -10,8 +10,22 @@ Similar to Caligula, Nero was not very popular amongst the people. He was declar
 
 ### Portraiture
 <br>
+<p align="center"><a href="https://www.uffizi.it/en/artworks/portrait-of-nero"><img src="../Images/nero-uffizi.jpg" alt="Portrait of Nero" width="40%"/></a></p>
 
+<p align="center"><i>Figure 1. Portrait of Nero. This image is taken from Le Gallerie Degli Uffizi. Clicking on the image above will take you to the page of this item. This image is available through Le Gallerie Degli Uffizi for personal, education and informational purposes only. Please visit their <a href="https://www.uffizi.it/en/professional-services/wewef">Rights & Reproductions</a> page for more information.</i></p>
 
+Nero was the first to try to take the Augustan hair style and make it his own. Breaking from tradition, Nero's portraits wore his hair long in the front, but also kept the comma-shaped hair locks. Another characteristic for Nero was having long side burns. In some portraits of Caligula, he had slight side burns as well. By breaking from tradition and having a feature similar to Caligula did not help with Nero's public image.<sup><a id="fnref5" href="#fn5">5</a></sup>
+<br><br>
+
+### Explore
+Below is a portrait of Nero that has been scanned and rendered as a 3D model. This model is hosted on <a href="https://www.myminifactory.com/">MyMiniFactory</a> through the <a href="https://www.myminifactory.com/scantheworld/">Scan The World (STW)</a> initiative. Clicking on the image will take you to the page of this item, which includes more images of the item as well as a 3D rendering of the item that can be explored online or, in some cases, downloaded for printing on a 3D printer.
+<br><br>
+
+<p align="center"><a href="https://www.myminifactory.com/object/3d-print-nero-69961"><img src="../Images/nero-anatomical-museum-stw.jpg" alt="Nero 3D model" width="40%"/></a></p>
+
+<p align="center"><i>Figure 3. Portrait of Nero (MyMiniFactory: Scan The World). The 3D item is available for download from STW under a <a href="https://www.myminifactory.com/object-licensing">MyMiniFactory Exclusive-Credit-Remix-NonCommercial</a> license.</i></p>
+
+This item is a scan of a portrait housed at the <a href="https://www.ed.ac.uk/visit/museums-galleries/anatomical">Anatomical Museum</a> in Edinburgh, Scotland.
 <br><br>
 
 ---
@@ -22,6 +36,8 @@ Similar to Caligula, Nero was not very popular amongst the people. He was declar
 3.  <a id="fn3"></a>Paul Zanker, Roman Portraits: Sculptures in Stone and Bronze in The Collection of the Metropolitan Museum of Art (New Haven: Yale University Press, 2016), 59. <a href="#fnref3">↩</a>
 
 4.  <a id="fn4"></a>Paul Zanker, Roman Portraits: Sculptures in Stone and Bronze in The Collection of the Metropolitan Museum of Art (New Haven: Yale University Press, 2016), 59. <a href="#fnref4">↩</a>
+
+5. <a id="fn5"></a>https://www.donottouchblog.com/home/rise-and-fall-of-hair <a href="#fnref5">↩</a>
 ---
 <p align="center">
 ← <a href="claudius.md">Back</a> &emsp; | &emsp; <a href="../readme.md">Table of Contents</a> &emsp; | &emsp; <a href="../aristocratic-hairstyles/aristocratic-hairstyles.md">Next</a> →

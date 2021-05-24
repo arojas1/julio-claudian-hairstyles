@@ -13,17 +13,19 @@ The very prominent hairstyle provides no room for misinterpretation; he is conne
 
 <p align="center"><a href="https://www.metmuseum.org/art/collection/search/248891"><img src="../Images/aristocratic-boy-like-augustus-front-view-met.jpg" alt="Bronze statue of an aristocratic boy, Bronze, Roman (front)" width="40%"/></a><a href="https://www.metmuseum.org/art/collection/search/248891"><img src="../Images/aristocratic-boy-like-augustus-back-view-met.jpg" alt="Bronze statue of an aristocratic boy, Bronze, Roman (back)" width="40%"/></a></p>
 
-<p align="center"><i>Fig. 2</i></p>
+<p align="center"><i>Figure 2. Bronze statue of an aristocratic boy (Left: Frontal view, Right: Back view). These images are taken from The Metropolitan Museum of Art (The Met). Clicking on the images above will take you to the page of this item, which includes more high-quality images of the item from different angles. These images are available through The Met under <a href="https://creativecommons.org/share-your-work/public-domain/cc0/">Creative Commons Zero (CC0)</a>.</i></p>
 
-"This life-sized statue was found on the eastern Mediterranean island of Rhodes, whose ancient Greek cities were wealthy, flourishing centers ofcommerce and culture under the Romans. With his broad face and short hair, the boy resembles young princes in the family of Augustus, the first Roman emperor, but he may have been the son of an important Roman official stationed on Rhodes or the son of a wealthy Greek. As Roman influence spread throughout the Mediterranean world, there was interchange of fashion, customs, and culture. Romans had great admiration for Greek culture; the island of Rhodes was famous for its schools of philosophy and rhetoric, and this boy even wears a Greek himation (cloak) instead of the traditional Roman toga."
-https://www.metmuseum.org/art/collection/search/248891
+The boy in figure 2 resembles a prince of the Augustan royal family. Since this life-sized statue was found on the island of Rhodes, Greece, is thought that the statue is either of the son of a Roman official or the son of a wealthy Greek.<sup><a id="fnref2" href="#fn2">2</a></sup>
+
+The comma-shaped locks and the "crab-claw" split of the hair on the forehead are very prominent, as is the star-shaped spiral of the locks of hair on the back of the head.
+
+For both of these boys, the hair styles had to be very prominent because, even though they were not connected to the royal family line, they wanted to seem like they were.
 <br><br>
-
-For both of these boys, the hair styles had to be very prominent because, even though they were not connected to the royal family line, they wanted to see like they were.
 
 ---
 1.  <a id="fn1"></a>Paul Zanker, Roman Portraits: Sculptures in Stone and Bronze in The Collection of the Metropolitan Museum of Art (New Haven: Yale University Press, 2016), 113. <a href="#fnref1">↩</a>
 
+2. <a id="fn2"></a>https://www.metmuseum.org/art/collection/search/248891 <a href="#fnref2">↩</a>
 ---
 <p align="center">
 ← <a href="aristocratic-hairstyles.md.md">Back</a> &emsp; | &emsp; <a href="../readme.md">Table of Contents</a> &emsp; | &emsp; <a href="female-aristocratic-hairstyles.md">Next</a> →
