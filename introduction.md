@@ -22,7 +22,10 @@ Busts were not only for the emperor's, but were typically reserved for the elite
 ### Explore
 Below is a YouTube video that talks about haircuts and hairstyles in Ancient Rome. Check the video out to get a sense of what life was like for Romans in terms of hairstyles. Although the use of portraits are different than everyday hairstyles, they are still connected.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8DpIo573jV8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=8DpIo573jV8
+" target="_blank"><img src="http://img.youtube.com/vi/8DpIo573jV8/0.jpg" 
+alt="How They Did It: Haircuts and Hair Styles in Ancient Rome (YouTube)" width="40%" border="10" /></a>
+
 
 ---
 1. <a id="fn1"></a>Department of Greek and Roman Art. “The Julio-Claudian Dynasty (27 B.C.–68 A.D.).” In Heilbrunn Timeline of Art History. New York: The Metropolitan Museum of Art, 2000–. http://www.metmuseum.org/toah/hd/jucl/hd_jucl.htm (October 2000). <a href="#fnref1">↩</a>
